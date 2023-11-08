@@ -9,6 +9,6 @@ used pygame library to create small platformer game
 <br>
 - added animation of dust while running, jumping and hitting ground
 <br><br>
-first version looks like this:
+first version looks like this(yes, it is a character from BattleToads NES game):
 
 ![](https://github.com/GeorgiyBereza/platformer_test_pygame/blob/master/platformer.gif)
